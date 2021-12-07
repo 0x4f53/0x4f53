@@ -1,1 +1,1 @@
-Nothing interesting to see here. Scroll back up.
+Nothing interesting to see here.
