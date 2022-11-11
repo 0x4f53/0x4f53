@@ -8,7 +8,7 @@ Hello. My name is 𝓞𝔀𝓪𝓲𝓼.
 
 If you'd like to support my open-source work, please click the donate button below and send lots of money to me.
 
-<a href=https://google.com>
+<a href=bitcoin.md>
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin address" title="Bitcoin address" width="150"/>
 </a>
 
