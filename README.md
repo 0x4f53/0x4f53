@@ -9,7 +9,6 @@ Hello. My name is 𝓞𝔀𝓪𝓲𝓼.
 - I delete code
 - I commit code
 - I breathe code
-- I stick my dick in code
 
 If you'd like to support my open-source work, please click the donate button below and send lots of money to me.
 
