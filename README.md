@@ -6,12 +6,12 @@ Hello, I'm Owais. I am a cybersecurity researcher [@RedHunt Labs](https://github
   <img src="https://img.shields.io/badge/HackerNews-000000?style=for-the-badge&logo=ycombinator&logoColor=white" alt="HackerNews" title="HackerNews" width="150"/>
 </a>
 
-<a href=https://www.linkedin.com/in/the-only-owais-shaikh/>
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="150"/>
-</a>
-
 <a href=https://www.reddit.com/user/0x736961774f/>
   <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" title="Reddit" width="150"/>
+</a>
+
+<a href=https://www.linkedin.com/in/the-only-owais-shaikh/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="150"/>
 </a>
 
 <a href=https://twitter.com/o_0x4f>
