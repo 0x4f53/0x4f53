@@ -2,12 +2,12 @@
 
 Hello, I'm Owais. I am a cybersecurity researcher [@RedHunt Labs](https://github.com/owais-redhunt). When I'm bored, I write cybersecurity tools in Golang and Python, Android apps and smartwatch apps. I also love games like Kerbal Space Program, Cities: Skylines and Pokémon.
 
-<a href=https://www.linkedin.com/in/the-only-owais-shaikh/>
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="150"/>
-</a>
-
 <a href="https://news.ycombinator.com/user?id=4f77616973/">
   <img src="https://img.shields.io/badge/HackerNews-000000?style=for-the-badge&logo=ycombinator&logoColor=white" alt="HackerNews" title="HackerNews" width="150"/>
+</a>
+
+<a href=https://www.linkedin.com/in/the-only-owais-shaikh/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="150"/>
 </a>
 
 <a href=https://www.reddit.com/user/0x736961774f/>
