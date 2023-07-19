@@ -24,6 +24,6 @@ Hello, I'm Owais. I am a cybersecurity researcher [@RedHunt Labs](https://github
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin address" title="Bitcoin address" width="150"/>
 </a>
 
-<a href="https://buy.stripe.com/4gw7uYciEg3HfOE6op">
-  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" title="Stripe" width="150"/>
+<a href="https://paypal.me/0x4f?country.x=IN&locale.x=en_US">
+  <img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" title="PayPal" width="150"/>
 </a>
