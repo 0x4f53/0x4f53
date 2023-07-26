@@ -8,7 +8,7 @@ Hello, I'm Owais, a security researcher. I write cybersecurity and AI tools, And
 
 <table border = "0.1">
   <tr>
-    <td><a href="https://liberapay.com/4f77616973/donate"><img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="125"/></a></td>
+    <td><a href="https://www.paypal.com/paypalme/0x4f"><img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="125"/></a></td>
     <td><a href=bitcoin.md><img src="https://img.shields.io/badge/Bitcoin-gold?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin address" width="130"/></a></td>
     <td><a href="https://github.com/sponsors/4f77616973/"><img src="https://img.shields.io/badge/Sponsor-red?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" width="135"/</a></td>
   </tr>
