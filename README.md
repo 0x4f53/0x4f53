@@ -16,7 +16,4 @@ Hello, I'm Owais, a security researcher. I write cybersecurity and AI tools, And
 
 ---
 
- I also love games like Kerbal Space Program, Cities: Skylines and Pokémon.
-
-![Owais' GitHub stats](https://github-readme-stats.vercel.app/api?username=4f77616973&hide=contribs,prs&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4f77616973&layout=compact&theme=tokyonight)
+I also love games like Kerbal Space Program, Cities: Skylines and Pokémon.
