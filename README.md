@@ -6,13 +6,10 @@ Hello, I'm Owais, a security researcher. I write cybersecurity and AI tools, And
 
 [Visit my work profile](https://github.com/owais-redhunt) (it's kinda boring)
 
-<table border = "0.1">
-  <tr>
-    <td><a href="https://www.paypal.me/0x4f"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/paypal.svg" alt="PayPal" width="125"/></a></td>
-    <td><a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors.svg" alt="GitHub Sponsors" width="135"/</a></td>
-    <td><a href=bitcoin.md><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/bitcoin.svg" alt="Bitcoin address" width="130"/></a></td>
-  </tr>
-</table>
+
+<a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors.svg" alt="GitHub Sponsors" width="80"/></a>&nbsp;&nbsp;
+<a href="https://www.paypal.me/0x4f"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/paypal.svg" alt="PayPal" width="80"/></a>&nbsp;&nbsp;
+<a href=bitcoin.md><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/bitcoin.svg" alt="Bitcoin address" width="80"/></a>&nbsp;&nbsp;
 
 ---
 
