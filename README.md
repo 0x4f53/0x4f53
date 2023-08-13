@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/_l8MMDhkM_sAAAAC/tomand-jerry.gif" width="250">
 
 Hello, I'm Owais, a security researcher. I write cybersecurity and AI tools, Android apps, smartwatch apps and more! 
-I also love games like Kerbal Space Program, Cities: Skylines and Pokémon.
+I also love games like Kerbal Space Program, Cities: Skylines and Pokémon (Emerald, Platinum and HeartGold).
 
 [Visit my work profile](https://github.com/owais-redhunt) (it's kinda boring)
 
