@@ -19,7 +19,7 @@ Hello, I'm Owais, a security researcher. I write cybersecurity and AI tools, And
 I also love games like Kerbal Space Program, Cities: Skylines and Pokémon.
 
 <details> 
-  <summary>OpenPGP key</summary> 
+  <summary><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8">OpenPGP key</a></summary> 
 
   ```
   5B48 7733 2829 B7F4 8ABE C1CB CA2D 14E0 F9F7 3BA8
