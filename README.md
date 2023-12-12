@@ -20,8 +20,8 @@ Hello, I'm Owais, a researcher and programmer. I work in cybersecurity doing red
 </details>
 
 ### Donate
-<a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors.svg" alt="GitHub Sponsors" width="80"/></a>&nbsp;&nbsp;
-<a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/liberapay.svg" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.paypal.me/0x4f"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/paypal.svg" alt="PayPal" width="80"/></a>&nbsp;&nbsp;
-<a href=bitcoin.md><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/bitcoin.svg" alt="Bitcoin address" width="80"/></a>&nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi.svg" width="80"/></a>
+<a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors.svg" alt="GitHub Sponsors" width="60"/></a>&nbsp;&nbsp;
+<a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/liberapay.svg" width="60"/></a>&nbsp;&nbsp;
+<a href="https://www.paypal.me/0x4f"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/paypal.svg" alt="PayPal" width="60"/></a>&nbsp;&nbsp;
+<a href=bitcoin.md><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/bitcoin.svg" alt="Bitcoin address" width="60"/></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi.svg" width="60"/></a>
