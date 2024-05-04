@@ -1,23 +1,30 @@
 ![](https://komarev.com/ghpvc/?username=0x4f53&style=for-the-badge)
 
-
 > <b>доверяй, но проверяй</b>
 > <br/> _"Trust, but verify"_ — Russian proverb
 
-<h3>Security researcher and programmer.</h3> 
+<h3>Security researcher and programmer</h3> 
 
-**Brains:** ThinkPad T480 maxed out -> BlackArch + KDE 
+```golang
+package readme
 
-**Muscle:** GCP (one-time) or AWS (regional loopholes) whenever it's needed
+func About(){
 
-**Phone:** Pixel 6 with Magisk
+  Bio := map[string]string {
+    "Name": "Owais",
+    "Email": "me@0x4f.in",
+    "Profession": "Security Research, Software Development, Hacking",
+  }
 
-**Car:** [2012 Civic with VTEC + laptop](https://www.youtube.com/watch?v=1HxNu61aljk)
+  Material := map[string][]string {
+    "Brains": ["ThinkPad T480", "i5-8250U", "16GB RAM", "512GB SSD", "BlackArch + KDE + i3wm"],
+    "Muscle": ["Suspended GCP", "AWS for regional loopholes"],
+    "Portables": ["Pixel 6", "Galaxy Watch4"]
+    "Voiture": ["2012 Civic + VTEC + laptop"]
+  }
 
-**Rocket:** Soyuz N1
-
-## Past profile(s)
-[RedHunt Labs](https://github.com/owais-redhunt)
+}
+```
 
 #### Contact
 [Email me](mailto:me@0x4f.in)
@@ -28,6 +35,9 @@
   5B48 7733 2829 B7F4 8ABE C1CB CA2D 14E0 F9F7 3BA8
   ```
 </details>
+
+## Past profile(s)
+[RedHunt Labs](https://github.com/owais-redhunt)
 
 ### Donate
 <a href="https://buymeacoffee.com/0x4f"><img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" width="190"/></a>
