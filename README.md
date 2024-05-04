@@ -30,9 +30,9 @@
 </details>
 
 ### Donate
-<a href="https://buymeacoffee.com/0x4f"><img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" width="200"/></a>
-<a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors.svg" alt="GitHub Sponsors" width="100"/></a>&nbsp;&nbsp;
-<a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png" width="200"/></a>&nbsp;&nbsp;
-<a href="https://www.paypal.me/0x4f"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal" width="200"/></a>&nbsp;&nbsp;
-<a href=bitcoin.md><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/bitcoin.svg" alt="Bitcoin address" width="60"/></a>&nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi.svg" width="60"/></a>
+<a href="https://buymeacoffee.com/0x4f"><img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" width="190"/></a>
+<a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors.svg" alt="GitHub Sponsors" width="100"/></a>
+<a href="https://www.paypal.me/0x4f"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal" width="200"/></a>
+<a href=bitcoin.md><img src="https://i.stack.imgur.com/m9uaE.png" alt="Bitcoin address" width="200"/></a>
+<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="https://developers.google.com/static/pay/api/images/brand-guidelines/google-pay-mark.png" width="150"/></a>
+<!-- <a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png" width="200"/></a> -->
