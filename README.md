@@ -3,7 +3,7 @@
 > <b>доверяй, но проверяй</b>
 > <br/> _"Trust, but verify"_ — Russian proverb
 
-<h3>Security researcher and programmer</h3> 
+<h3>Security researcher and computer fetishist</h3> 
 
 ```golang
 package readme
