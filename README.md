@@ -15,7 +15,7 @@ func About () {
   Bio := map[string]string {
     "Name": "Owais",
     "Email": "me@0x4f.in",
-    "Profession": "Security Research, Software Development, Ḫ̸̥̀ ̴̺̭̥̽̀̾A̷̻̹̒̄̒ ̵̨̰̄̄̋C̸̢̡͋͒͝ ̵͙̊̄̄K̷̲̜̀ ̵̪̽̅E̶̡̡̛̦̓̔ ̴͇͌͆ͅȐ̵͔̪͘ ̴̰̓͌͠M̷̛̩͂̒ͅ ̷͖̓̊̕͜A̷̙̙͈̍ ̵̢͈̔͗͝N̵̲͉̭͆",
+    "Profession": "Security Research, Software Development, H̷̜̐Ą̴̙̂̈́C̷̠͍͊́K̸̹̯̋̑Ę̶͙͂R̵͈͒́M̶̳̭̀A̴̧̞͒Ñ̷̪",
   }
 
   Material := map[string][]string {
