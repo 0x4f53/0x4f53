@@ -12,10 +12,16 @@ package readme
 
 func About () {
 
-  Bio := map[string]string {
-    "Name": "Owais",
-    "Email": "me@0x4f.in",
-    "Profession": "Security Research, Software Development, H̷̜̐Ą̴̙̂̈́C̷̠͍͊́K̸̹̯̋̑Ę̶͙͂R̵͈͒́M̶̳̭̀A̴̧̞͒Ñ̷̪",
+  Bio := map[string][]string {
+    "Name": ["Owais", "Shaikh"],
+    "Email": ["me@0x4f.in"],
+    "Experience": [
+      "Security Research",
+      "Software Development",
+      "H̷̜̐Ą̴̙̂̈́C̷̠͍͊́K̸̹̯̋̑Ę̶͙͂R̵͈͒́M̶̳̭̀A̴̧̞͒Ñ̷̪"
+    ],
+    "iSpeak": ["en", "ar", "hi", "mr", "fr", "es", "sa", "ta", "kn"],
+    "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"]
   }
 
   Material := map[string][]string {
