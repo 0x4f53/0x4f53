@@ -19,10 +19,6 @@ func About () {
   Bio := map[string][]string {
     "Name": ["Owais", "Shaikh"],
     "Email": ["me@0x4f.in"],
-    "Experience": [
-      "Security Research",
-      "Software Development",
-    ],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
     "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
   }
