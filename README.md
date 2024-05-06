@@ -1,9 +1,15 @@
+
+<p align="center">
 <img src="https://media.tenor.com/8PlnT9rtCScAAAAi/mew-pokemon.gif" width="75"/> <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" width="50"/><img src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif" width="60"/> <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" width="65"/> <img src="https://pa1.aminoapps.com/6191/1d2177e5d746c7c38a2d99ae1f25deb373874d86_00.gif" width="70"/> <img src="https://38.media.tumblr.com/94e9f3d457a2916b99fd0cecc0793039/tumblr_n9e0clg7821s3bc1no1_500.gif" width="70"/>
+</p>
 
-> <b>доверяй, но проверяй</b>
-> <br/> _"Trust, but verify"_ — Russian proverb
+<p align="center">
+  <b size="1">Hi, I'm Owais (0x4f53)</b>
+</p>
+<p align="center">
+  <b>security researcher ⋅ H̷̜̐Ą̴̙̂̈́C̷̠͍͊́K̸̹̯̋̑Ę̶͙͂R̵͈͒́M̶̳̭̀A̴̧̞͒Ñ̷̪ ⋅ developer</b>
+</p>
 
-<h3>Security researcher and developer</h3> 
 
 ```golang
 package readme
@@ -16,10 +22,9 @@ func About () {
     "Experience": [
       "Security Research",
       "Software Development",
-      "H̷̜̐Ą̴̙̂̈́C̷̠͍͊́K̸̹̯̋̑Ę̶͙͂R̵͈͒́M̶̳̭̀A̴̧̞͒Ñ̷̪",
     ],
-    "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
+    "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
   }
 
   Material := map[string][]string {
@@ -48,5 +53,9 @@ func About () {
 <!-- <a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png" width="200"/></a> -->
 
 #### Past profiles (defunct)
-[RedHunt Labs](https://github.com/owais-redhunt)
-[GitLab - Personal](https://gitlab.com/ThomasCat)
+[RedHunt Labs](https://github.com/owais-redhunt) ⋅ [GitLab - Personal](https://gitlab.com/ThomasCat)
+
+---
+
+> <b>доверяй, но проверяй</b>
+> <br/> _"Trust, but verify"_ — Russian proverb
