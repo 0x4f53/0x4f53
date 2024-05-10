@@ -47,7 +47,7 @@ func About () {
 <a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="https://developers.google.com/static/pay/api/images/brand-guidelines/google-pay-mark.png" width="75"/></a>
 <!-- <a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png" width="200"/></a> -->
 
-#### Past profiles (defunct)
+#### Other profiles
 [RedHunt Labs](https://github.com/owais-redhunt) ⋅ [GitLab - Personal](https://gitlab.com/ThomasCat)
 
 ---
