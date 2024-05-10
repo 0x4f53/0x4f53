@@ -24,7 +24,7 @@ func About () {
   }
 
   Material := map[string][]string {
-    "Brains": ["ThinkPad T480", "i5-8250U", "16GB RAM", "512GB SSD", "Debian + i3wm"],
+    "Brains": ["ThinkPad T480", "i5-8350U", "16GB RAM", "512GB SSD", "Debian + i3wm"],
     "Muscle": ["n4-highcpu-80 GCP", "c7g.8xlarge AWS"],
     "Voiture": ["2012 Civic VTEC with a laptop"],
   }
