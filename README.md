@@ -6,7 +6,7 @@
   <b size="1">Hi, I'm Owais (0x4f53)</b>
 </p>
 <p align="center">
-  <b>security researcher ⋅ software engineer</b>
+  <b>s̴͉̝̋é̴̹c̴̗̗͝ụ̷̈́ŗ̵́̋i̷̦̾t̷͖̓̈́y̸̝̏̑ ̸̰͎̍̕r̷͙̈́e̴̛͓͊ş̶̐e̷͎̽̊a̴̢̛̖r̵͍̍c̴̲̚h̷̯̓e̷̡͠ŗ̵͎̓ ⋅ software engineer</b>
 </p>
 
 
