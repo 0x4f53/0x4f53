@@ -17,39 +17,37 @@ func About () {
 
   Bio := map[string][]string {
     "Name": ["Owais", "Shaikh"],
-    "Email": ["me@0x4f.in"],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
     "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
   }
 
   Material := map[string][]string {
     "Brains": ["ThinkPad T480", "i5-8350U", "16GB RAM", "512GB SSD", "Debian + i3wm"],
-    "Muscle": ["n4-highcpu-80 GCP", "c7g.8xlarge AWS"],
+    "Muscle": ["GCP:n4-highcpu-80", "AWS:c7g.8xlarge"],
     "Voiture": ["2012 VTEC Civic with a laptop"],
   }
 
 }
 ```
 
-### Contact
-📬 [Email me](mailto:me@0x4f.in)
-
-🔏 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8">OpenPGP pubkey</a>
-
-⚠️ If you want a feature in my projects, make a pull request
-
-### Donate
-<a href="https://github.com/sponsors/0x4f53/"><img src="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/sponsors-badge.png" alt="GitHub Sponsors" width="72"/></a>
-<a href="https://www.paypal.me/0x4f"><img src="https://www.childrenshopeindia.org/wp-content/uploads/2020/07/paypal-button-300x131-1.png" alt="PayPal" width="90"/></a>
-<a href="https://buymeacoffee.com/0x4f"><img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" width="136"/></a>
-<a href=bitcoin.md><img src="https://en.bitcoin.it/w/images/en/7/74/BC_Rnd_64px.png" alt="Bitcoin address" width="100"/></a>
-<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="https://developers.google.com/static/pay/api/images/brand-guidelines/google-pay-mark.png" width="75"/></a>
-<!-- <a href="https://liberapay.com/0x4f53"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png" width="200"/></a> -->
-
-#### Other profiles
-[RedHunt Labs](https://github.com/owais-redhunt) ⋅ [GitLab - Personal](https://gitlab.com/ThomasCat)
-
----
-
 > <b>доверяй, но проверяй</b>
 > <br/> _"Trust, but verify"_ — Russian proverb
+
+### Contact
+📬 [Email me](mailto:me@0x4f.in)
+ ⋅ 
+🔏 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8">OpenPGP pubkey</a>
+
+### Donate
+<a href="https://github.com/sponsors/0x4f53/"><img src="donation_badges/sponsors.png" alt="GitHub Sponsors" width="72"/></a>
+<a href="https://www.paypal.me/0x4f"><img src="donation_badges/paypal.png" alt="PayPal" width="90"/></a>
+<a href="https://buymeacoffee.com/0x4f"><img src="donation_badges/bmac.png" width="136"/></a>
+<a href=bitcoin.md><img src="donation_badges/bitcoin.png" alt="Bitcoin address" width="100"/></a>
+<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="donation_badges/gpay.png" width="75"/></a>
+<a href="https://liberapay.com/0x4f53"><img src="donation_badges/liberapay.png" width="130"/></a>
+<a href="https://liberapay.com/0x4f53"><img src="donation_badges/kofi.png" width="235"/></a>
+
+#### Other profiles
+[RedHunt Labs](https://github.com/owais-redhunt)
+[GitLab - Personal](https://gitlab.com/ThomasCat)
+
