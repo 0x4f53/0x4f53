@@ -41,13 +41,15 @@ func About () {
 ### Donate
 <a href="https://github.com/sponsors/0x4f53/"><img src="donation_badges/sponsors.png" alt="GitHub Sponsors" width="72"/></a>
 <a href="https://www.paypal.me/0x4f"><img src="donation_badges/paypal.png" alt="PayPal" width="90"/></a>
-<a href="https://buymeacoffee.com/0x4f"><img src="donation_badges/bmac.png" width="136"/></a>
+<a href="https://buymeacoffee.com/0x4f"><img src="donation_badges/bmac.png" alt="Buy Me A Coffee" 
+ width="136"/></a>
 <a href=bitcoin.md><img src="donation_badges/bitcoin.png" alt="Bitcoin address" width="100"/></a>
-<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="donation_badges/gpay.png" width="75"/></a>
-<a href="https://liberapay.com/0x4f53"><img src="donation_badges/liberapay.png" width="130"/></a>
-<a href="https://liberapay.com/0x4f53"><img src="donation_badges/kofi.png" width="235"/></a>
+<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="donation_badges/gpay.png" alt="GPay" width="75"/></a>
+<a href="https://liberapay.com/0x4f53"><img src="donation_badges/liberapay.png" alt="LiberaPay"  width="130"/></a>
+<a href="https://ko-fi.com/o_0x4f"><img src="donation_badges/kofi.png" alt="Ko-Fi"  width="235"/></a>
 
 #### Other profiles
 [RedHunt Labs](https://github.com/owais-redhunt)
+
 [GitLab - Personal](https://gitlab.com/ThomasCat)
 
