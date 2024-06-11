@@ -34,7 +34,7 @@ func About () {
 > <br/> _"Trust, but verify"_ — Russian proverb
 
 ### Contact
-📬 [Email me](mailto:me@0x4f.in)
+📬 [Email me](mailto:owais@0x4f.in)
  ⋅ 
 🔏 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8">OpenPGP pubkey</a>
 
