@@ -6,7 +6,7 @@
   <b size="1">Hi, I'm Owais (0x4f53)</b>
 </p>
 <p align="center">
-  <b>s̸e̵c̵u̶r̴i̵t̷y̵ ̶r̴e̷s̴e̶a̶r̸c̴h̷e̵r̷ ⋅ software engineer</b>
+  <b></b>
 </p>
 
 
@@ -16,7 +16,7 @@ package readme
 func About () {
 
   Bio := map[string][]string {
-    "Name": ["Owais", "Shaikh"],
+    "Occupation": ["s̸e̵c̵u̶r̴i̵t̷y̵ ̶r̴e̷s̴e̶a̶r̸c̴h̷e̵r̷", "software engineer"],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
     "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
   }
