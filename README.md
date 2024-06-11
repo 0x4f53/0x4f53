@@ -14,19 +14,16 @@
 package readme
 
 func About () {
-
   Bio := map[string][]string {
-    "Occupation": ["security researcher", "software engineer"],
+    "occupation": ["security researcher", "software engineer"],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
     "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
   }
-
   Material := map[string][]string {
-    "Brains": ["ThinkPad T480", "i5-8350U", "16GB RAM", "512GB SSD", "Debian + i3wm"],
-    "Muscle": ["GCP:n4-highcpu-80", "AWS:c7g.8xlarge"],
-    "Voiture": ["2012 VTEC Civic with a laptop"],
+    "brains": ["ThinkPad T480", "i5-8350U", "16GB RAM", "512GB SSD", "Debian + i3wm"],
+    "muscle": ["GCP:n4-highcpu-80", "AWS:c7g.8xlarge"],
+    "voiture": ["2012 VTEC Civic with a laptop"],
   }
-
 }
 ```
 
