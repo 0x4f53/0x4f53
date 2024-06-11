@@ -16,7 +16,7 @@ package readme
 func About () {
 
   Bio := map[string][]string {
-    "Occupation": ["s̸e̵c̵u̶r̴i̵t̷y̵ ̶r̴e̷s̴e̶a̶r̸c̴h̷e̵r̷", "software engineer"],
+    "Occupation": ["security researcher", "software engineer"],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
     "iSpeak": ["en", "ar", "fr", "hi", "mr", "es", "sa", "ta", "kn"],
   }
