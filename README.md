@@ -43,7 +43,6 @@ func About () {
  width="136"/></a>
 <a href=bitcoin.md><img src="donation_badges/bitcoin.png" alt="Bitcoin address" width="100"/></a>
 <a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="donation_badges/gpay.png" alt="GPay" width="75"/></a>
-<!--<a href="https://liberapay.com/0x4f53"><img src="donation_badges/liberapay.png" alt="LiberaPay"  width="130"/></a>-->
 <a href="https://ko-fi.com/o_0x4f"><img src="donation_badges/kofi.png" alt="Ko-Fi"  width="235"/></a>
 
 #### Other profiles
