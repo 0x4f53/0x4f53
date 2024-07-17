@@ -46,9 +46,9 @@ func About () {
 <a href="https://ko-fi.com/o_0x4f"><img src="donation_badges/kofi.png" alt="Ko-Fi"  width="235"/></a>
 
 #### Other profiles
-[RedHunt Labs (inactive)](https://github.com/owais-redhunt)
-
-[GitLab (inactive)](https://gitlab.com/ThomasCat)
 
 [Zeron](https://gitlab.com/owais-zeron)
 
+[RedHunt Labs (inactive)](https://github.com/owais-redhunt)
+
+[GitLab (inactive)](https://gitlab.com/ThomasCat)
