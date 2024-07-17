@@ -50,5 +50,5 @@ func About () {
 
 [GitLab (inactive)](https://gitlab.com/ThomasCat)
 
-[Zeron] (https://gitlab.com/owais-zeron)
+[Zeron](https://gitlab.com/owais-zeron)
 
