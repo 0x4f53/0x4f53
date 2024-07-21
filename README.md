@@ -42,12 +42,12 @@ func About () {
 <a href="https://buymeacoffee.com/0x4f"><img src="donation_badges/bmac.png" alt="Buy Me A Coffee" 
  width="136"/></a>
 <a href=bitcoin.md><img src="donation_badges/bitcoin.png" alt="Bitcoin address" width="100"/></a>
-<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/upi_code.png"><img src="donation_badges/gpay.png" alt="GPay" width="75"/></a>
+<a href="https://raw.githubusercontent.com/0x4f53/0x4f53.github.io/master/assets/images/upi_code.png"><img src="donation_badges/gpay.png" alt="GPay" width="75"/></a>
 <a href="https://ko-fi.com/o_0x4f"><img src="donation_badges/kofi.png" alt="Ko-Fi"  width="235"/></a>
 
 #### Other profiles
 
-[Zeron](https://gitlab.com/owais-zeron)
+[Zeron](https://github.com/owais-zeron)
 
 [RedHunt Labs (inactive)](https://github.com/owais-redhunt)
 
