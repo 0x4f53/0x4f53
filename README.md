@@ -47,8 +47,4 @@ func About () {
 
 #### Other profiles
 
-[Zeron](https://github.com/owais-zeron)
-
-[RedHunt Labs (inactive)](https://github.com/owais-redhunt)
-
-[GitLab (inactive)](https://gitlab.com/ThomasCat)
+[Zeron](https://github.com/owais-zeron) ⌥ [RedHunt Labs (inactive)](https://github.com/owais-redhunt) ⌥ [GitLab (inactive)](https://gitlab.com/ThomasCat)
