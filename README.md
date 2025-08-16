@@ -22,9 +22,9 @@ func About () {
     "occupation": ["security researcher", "software engineer"],
     "iCodeIn": ["golang", "rust", "python", "c", "js", "kotlin", "java"],
   }
-  Material := map[string][]string {
-    "brains": ["ThinkPad T480", "i5-8350U", "16GB RAM", "512GB SSD", "Debian + i3wm"],
-    "muscle": ["GCP:n4-highcpu-80", "AWS:c7g.8xlarge"],
+  Toys := map[string][]string {
+    "megamind": ["Gigabyte B650I-AX rev 1.1", "AMD Ryzen 5 7700X", "AMD Radeon RX 7800XT", "32GB RAM", "1TB SSD", "Debian + Tiny11 + Hackintosh Sonoma"],
+    "artemis": ["ThinkPad T480 20L6S29E1T", "Intel Core i5 8350U", "Intel UHD620", "16GB RAM", "512GB SSD", "Debian"],
   }
 }
 ```
