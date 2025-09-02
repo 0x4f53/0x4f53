@@ -18,13 +18,16 @@
 package readme
 
 func AboutMe () {
-  occupation := []string{"security researcher", "software engineer"}
-  iCodeIn := []string{"golang", "rust", "python", "c", "js", "kotlin", "java"}
+  occupation := []string{"Security Researcher", "Software Engineer"} // Sometimes an SDE, not always
+  langs := []string{"golang", "rust", "python", "c", "js", "kotlin", "java"}
 
-  Toys := map[string][]string {
-    "megamind": ["Gigabyte B650I-AX rev 1.1", "AMD Ryzen 5 7700X", "AMD Radeon RX 7800XT", "32GB RAM", "1TB SSD", "Debian + Tiny11 + Hackintosh Sonoma"], // Yes, I am an AMD shill
-    "artemis": ["ThinkPad T480 20L6S29E1T", "Intel Core i5 8350U", "Intel UHD620", "16GB RAM", "512GB SSD", "Debian"],
+  toys := map[string][]string {
+    "megamind": {"Gigabyte B650I-AX rev 1.1", "AMD Ryzen 5 7700X", "AMD Radeon RX 7800XT", "32GB RAM", "1TB SSD", "Debian + Tiny11 + Hackintosh Sonoma"}, // Yes, I am an AMD shill
+    "artemis": {"ThinkPad T480 20L6S29E1T", "Intel Core i5 8350U", "Intel UHD620", "16GB RAM", "512GB SSD", "Debian"}
   }
+
+  go func() { panic(recover()) }()
+
 }
 ```
 
