@@ -18,7 +18,7 @@
 package readme
 
 func AboutMe () {
-  occupation := []string{"Security Researcher", "Software Engineer"} // Sometimes an SDE, not always
+  occupation := "Security Researcher" // I write code too sometimes
   langs := []string{"golang", "rust", "python", "c", "js", "kotlin", "java"}
 
   toys := map[string][]string {
