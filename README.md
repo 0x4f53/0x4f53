@@ -4,7 +4,7 @@
 ऋतेऽपि त्वां न भविष्यन्ति सर्वे येऽवस्थिताः प्रत्यनीकेषु योद्धाः॥<br>
 — ११.३२*
 
-**🚀 Hello, I'm Owais (0x4f53) 🚀**
+## 🚀 Hello, I'm Owais (0x4f53) 🚀
 
 <img src="sprites/MewHD.gif" width="35"/>
 <img src="sprites/Infernape.gif" width="40"/>
