@@ -6,12 +6,12 @@
 
 **🚀 Hello, I'm Owais (0x4f53) 🚀**
 
-<img src="sprites/MewHD.gif" width="45"/>
-<img src="sprites/Infernape.gif" width="50"/>
-<img src="sprites/MegaCharizardX.gif" width="90"/>
-<img src="sprites/GiratinaOrigin.gif" width="85"/>
-<img src="sprites/MegaRayquazaShiny.gif" width="70"/>
-<img src="sprites/Greninja.gif" width="60"/>
+<img src="sprites/MewHD.gif" width="35"/>
+<img src="sprites/Infernape.gif" width="40"/>
+<img src="sprites/MegaCharizardX.gif" width="80"/>
+<img src="sprites/GiratinaOrigin.gif" width="75"/>
+<img src="sprites/MegaRayquazaShiny.gif" width="60"/>
+<img src="sprites/Greninja.gif" width="50"/>
 
 </div>
 
