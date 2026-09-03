@@ -30,17 +30,15 @@ func About () {
   go func() { panic(recover()) }()
 
 }
-```
+```  
+  
+---  
 
----
-[<img src="donation_badges/sponsors.png" alt="Sponsor 0x4f53 on GitHub Sponsors" width="100"/>](https://github.com/sponsors/0x4f53/)  
----
+### Contact  
 
-### Contact
-
-📬 [Email me](mailto:owais@0x4f.in) ⋅ 🔏 [OpenPGP pubkey](https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8)
-
----
+📬 [Email me](mailto:owais@0x4f.in)  
+🔏 [OpenPGP pubkey](https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8)  
+---  
 
 #### Other links
 
@@ -48,3 +46,7 @@ func About () {
 ✈  [Zeron (inactive)](https://github.com/owais-zeron)  
 ✈  [RedHunt Labs (inactive)](https://github.com/owais-redhunt)  
 ✈  [GitLab (junkyard)](https://gitlab.com/ThomasCat)  
+
+---  
+
+[<img src="donation_badges/sponsors.png" alt="Sponsor 0x4f53 on GitHub Sponsors" width="100"/>](https://github.com/sponsors/0x4f53/)  
