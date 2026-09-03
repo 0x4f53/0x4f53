@@ -1,29 +1,30 @@
-<p align="center">
-  <i>
-    उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः। — ६.५
-  </i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/pokemonfanon/images/8/8d/Output_mcigut_by_rainbow_yami-d9tpcbl.gif/revision/latest?cb=20180326230221" width="55"/> <img src="https://projectpokemon.org/images/normal-sprite/infernape.gif" width="55"/><img src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif" width="65"/> <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" width="55"/> <img src="https://pa1.aminoapps.com/6191/1d2177e5d746c7c38a2d99ae1f25deb373874d86_00.gif" width="60"/> <img src="https://38.media.tumblr.com/94e9f3d457a2916b99fd0cecc0793039/tumblr_n9e0clg7821s3bc1no1_500.gif" width="50"/>
-</p>
+*कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः।<br>
+ऋतेऽपि त्वां न भविष्यन्ति सर्वे येऽवस्थिताः प्रत्यनीकेषु योद्धाः॥<br>
+— ११.३२*
 
-<p align="center">
-  <b size="1">
-    🚀 Hello, I'm Owais (0x4f53) 🚀
-  </b>
-</p>
+**🚀 Hello, I'm Owais (0x4f53) 🚀**
+
+<img src="sprites/MewHD.gif" width="45"/>
+<img src="sprites/Infernape.gif" width="50"/>
+<img src="sprites/MegaCharizardX.gif" width="90"/>
+<img src="sprites/GiratinaOrigin.gif" width="85"/>
+<img src="sprites/MegaRayquazaShiny.gif" width="70"/>
+<img src="sprites/Greninja.gif" width="60"/>
+
+</div>
 
 ```golang
 package readme
 
-func AboutMe () {
-  occupation := "Security Researcher" // I write code too sometimes
-  langs := []string{"golang", "rust", "python", "c", "js", "kotlin", "java"}
+func About () {
+  work := "Security Researcher" // annoying people is fun
+  langs := []string{"Golang", "Rust", "Python", "C", "Kotlin", "Java"} // all via llama.cpp and MLX, obviously
 
   toys := map[string][]string {
-    "megamind": {"Gigabyte B650I-AX rev 1.1", "AMD Ryzen 5 7700X", "AMD Radeon RX 7800XT", "32GB RAM", "1TB SSD", "Debian + Tiny11 + Hackintosh Sonoma"}, // Yes, I am an AMD shill
-    "artemis": {"ThinkPad T480 20L6S29E1T", "Intel Core i5 8350U", "Intel UHD620", "16GB RAM", "512GB SSD", "Debian"}
+    "megamind": {"Gigabyte B650I-AX r1.1", "AMD Ryzen 5 7700X", "AMD Radeon RX 7800XT", "32GB RAM"}, // Yes, I am an AMD shill
+    "mac": {"MacBook Pro A3426", "Apple Silicon M5 Pro 15C", "M5 Pro 16C", "24GB RAM"} // Post-2020, only MacBooks are worth it
   }
 
   go func() { panic(recover()) }()
@@ -31,13 +32,19 @@ func AboutMe () {
 }
 ```
 
-### [Click here to donate](https://github.com/sponsors/0x4f53/)
+---
+[<img src="donation_badges/sponsors.png" alt="Sponsor 0x4f53 on GitHub Sponsors" width="100"/>](https://github.com/sponsors/0x4f53/)  
+---
 
 ### Contact
-📬 [Email me](mailto:owais@0x4f.in)
- ⋅ 
-🔏 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8">OpenPGP pubkey</a>
 
-#### Other profiles
+📬 [Email me](mailto:owais@0x4f.in) ⋅ 🔏 [OpenPGP pubkey](https://keys.openpgp.org/vks/v1/by-fingerprint/5B4877332829B7F48ABEC1CBCA2D14E0F9F73BA8)
 
-[Zeron (inactive)](https://github.com/owais-zeron)  ⌥  [RedHunt Labs (inactive)](https://github.com/owais-redhunt)  ⌥  [GitLab (inactive)](https://gitlab.com/ThomasCat)
+---
+
+#### Other links
+
+✈  [Char49 (inactive)](https://github.com/owais-c49)  
+✈  [Zeron (inactive)](https://github.com/owais-zeron)  
+✈  [RedHunt Labs (inactive)](https://github.com/owais-redhunt)  
+✈  [GitLab (junkyard)](https://gitlab.com/ThomasCat)  
